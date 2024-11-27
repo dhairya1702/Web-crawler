@@ -13,13 +13,6 @@ An asynchronous web crawler built with Python, Playwright, and BeautifulSoup. Th
 
 ---
 
-## 📸 Demo
-
-![Crawler Demo](demo_screenshot.png)  
-*(Replace this with a screenshot or GIF of your crawler running.)*
-
----
-
 ## 📂 Project Structure
 
 ```plaintext
