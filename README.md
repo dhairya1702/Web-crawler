@@ -1,4 +1,4 @@
-# Web Crawler
+# SmartWebCrawler: Machine Learning Dataset Builder
 
 An asynchronous web crawler built with Python, Playwright, and BeautifulSoup. This project efficiently scrapes websites for specific links while adhering to politeness rules and user-defined filtering criteria.
 
